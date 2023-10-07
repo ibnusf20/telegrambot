@@ -1,0 +1,32 @@
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: FILE SHARE LINK
+└ Username: @efileshare_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: Film Layar Kaca
+└ Chat ID: -1001474907666
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: DATABASE
+└ Chat ID: -1001969032620
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @filmlayarkaca
+Jika @filmlayarkaca
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: FILE SHARE LINK
+└ Username: @efileshare_bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: Film Layar Kaca
+└ Chat ID: -1001474907666
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: DATABASE
+└ Chat ID: -1001969032620
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @filmlayarkaca
+Jika @filmlayarkaca
