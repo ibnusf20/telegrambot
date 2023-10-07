@@ -11,27 +11,27 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": "6652952660:AAHFFFbUj_MabRGflcZ7vPLiKlDpYrLrXkY"
+      "value": ""
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "filmlayarkaca"
+      "value": ""
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin di BOT [ Gunakan Spasi Untuk Pemisah User ID ]",
-      "value": "1140105881"
+      "value": ""
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "27798964"
+      "value": ""
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "1277f79c3df626acd9399118b8631fb8"
+      "value": ""
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
-      "value": "-1001969032620"
+      "value": "-"
     },
     "PROTECT_CONTENT": {
       "description": "Untuk Mencegah pengguna bot untuk mendownload/memforward/mengscreenshot konten yang dikirim di bot [ Bila ingin diaktifkan ubah ke True ]",
@@ -43,7 +43,7 @@
     },
     "FORCE_SUB_GROUP": {
       "description": "Masukan ID dari Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "-1001474907666"
+      "value": "0"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
